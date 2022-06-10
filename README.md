@@ -42,14 +42,14 @@ ______
 ## Materiales y Recursos didácticos
 
 ### Herramientas de Software
-• Oracle 11g express
-• SqlDeveloper 4.1.0.17.29
-• SqlServer Enterprise o Development versión 2014, 2016 o 2017
-• SqlServer Data Tools versión 2015 en adelante
-• Pentaho versión 4.0 en adelante
+* Oracle 11g express
+* SqlDeveloper 4.1.0.17.29
+* SqlServer Enterprise o Development versión 2014, 2016 o 2017
+* SqlServer Data Tools versión 2015 en adelante
+* Pentaho versión 4.0 en adelante
 
 ### Libros y contenido de Apoyo
-• [Oracle DB Documentacion](https://docs.oracle.com/cd/E11882_01/index.htm)
-• Business Intelligence: Competir Con Información., Josep Lluis Cano
-• Elmasri, Ramaz. Fundamentals of database systems. Edición 6.
-• Fundamentos de Base de Datos. Abraham Silberschatz; Henry Korth
+* [Oracle DB Documentacion](https://docs.oracle.com/cd/E11882_01/index.htm)
+* Business Intelligence: Competir Con Información., Josep Lluis Cano
+* Elmasri, Ramaz. Fundamentals of database systems. Edición 6.
+* Fundamentos de Base de Datos. Abraham Silberschatz; Henry Korth
