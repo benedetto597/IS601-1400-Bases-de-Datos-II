@@ -1,0 +1,7 @@
+STAFF_ID, FIRST_NAME, LAST_NAME, EMAIL, PHONE, ACTIVE, STORE_ID, MANAGER_ID
+12, Rose, Porter, rose.porter@bikes.shop, (972); 545-5547, 1, 2, 7
+13, Nataly, Hover, nataly.hover@bikes.shop, (972); 566-1041, 1, 1, 5
+14, Kane, Lincoln, kane.lincoln@bikes.shop, (972); 505-5017, 1, 3, 3
+15, Patric, Rollans, patric.rolans@bikes.shop, (972); 515-4847, 1, 1, 2
+16, Mia, Stuning, mia.stuning@bikes.shop, (972); 540-8577, 1, 3, 6
+17, Nani, Nandeska, nani.nandeska@bikes.shop, (972); 565-8747, 1, 2, 5

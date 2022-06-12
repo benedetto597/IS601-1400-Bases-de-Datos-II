@@ -1,0 +1,3 @@
+Dentro del CMD 
+
+sqlldr BD_BICICLETAS/123@XE control= 'C:\2_Control.ctl' data='C:\1_Add_Staff.csv'

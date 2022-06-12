@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.OLTP_Retail"
+  DTS:DTSID="{C6EE4B03-4C15-4F0A-BEE9-4221F3264022}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=OLTP_Retail;Integrated Security=True;Application Name=SSIS-DataMart_RetailSales-{C6EE4B03-4C15-4F0A-BEE9-4221F3264022}LocalHost.OLTP_Retail;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
