@@ -1,0 +1,3 @@
+Dentro del CMD 
+
+sqlldr BD_DIETAS_GANADERAS/123@XE control= 'C:\2_Control_AnimalXDieta.ctl' data='C:\1_Datos_AnimalXDieta.csv'

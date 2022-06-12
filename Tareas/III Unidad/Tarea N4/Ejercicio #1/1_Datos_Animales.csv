@@ -1,0 +1,6 @@
+ANIMALID, ESPECIE, NOMBRE, PESO, FECHANACIMIENTO, LUGARCODIGO
+A-03-D4, Mamifero, Delfin, 680, 2011-05-19, Aleta
+E-22-HH, Mamifero, Elefante, 4580, 2005-11-17, Pata
+P-14-OC, Mamifero, Perro, 150, 2018-10-22, Cola
+C-11-D6, Mamifero, Canguro, 560, 2018-01-03, Oreja
+G-19-MJ, Mamifero, Gato, 75, 2021-04-10, Ojo
