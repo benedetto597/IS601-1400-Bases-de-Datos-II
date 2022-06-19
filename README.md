@@ -39,6 +39,19 @@ ______
 
 <br>
 
+## Resumen
+### Pasos para construir un datamart:
+1. Obtener las preguntas que se desean saber del negocio 
+2. Identificar las métricas que generan las preguntas del negocio
+3. Identificar las tablas de dimensiones y hechos
+4. Decidir que modelo se usará
+5. De la base de datos OLTP identificar que tablas servirán para llenar las de hecho y 
+dimensiones, en base a esto se construirá el ETL.
+6. Analizar con que campos del OLTP se obtendrán las métricas
+______
+
+<br>
+
 ## Materiales y Recursos didácticos
 
 ### Herramientas de Software
@@ -47,17 +60,6 @@ ______
 * SqlServer Enterprise o Development versión 2014, 2016 o 2017
 * SqlServer Data Tools versión 2015 en adelante
 * Pentaho versión 4.0 en adelante
-
-### Resumen
-Pasos para construir un datamart:
-1. Obtener las preguntas que se desean saber del negocio 
-2. Identificar las métricas que generan las preguntas del negocio
-3. Identificar las tablas de dimensiones y hechos
-4. Decidir que modelo se usará
-5. De la base de datos OLTP identificar que tablas servirán para llenar las de hecho y 
-dimensiones, en base a esto se construirá el ETL.
-6. Analizar con que campos del OLTP se obtendrán las métricas
-
 
 ### Libros y contenido de Apoyo
 * [Oracle DB Documentacion](https://docs.oracle.com/cd/E11882_01/index.htm)
